@@ -1,2 +1,2 @@
-# Making small and easy java programs
+# University project, using polymorphism and classes relations concepts in java.
  
