@@ -1,2 +1,2 @@
-# Java-Small-Programs
+# Making small and easy java programs
  
